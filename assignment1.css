@@ -1,0 +1,431 @@
+.frame
+{
+    width: 1366px;
+    height: 973px;
+    padding: 0 0 88px;
+    background-color: #fbfbfb;
+}
+
+
+
+.top
+{
+position:relative;
+width: 1366px;
+height: 80px;
+margin: 0 0 3px;
+padding: 15px 101px 13px 102px;
+background-color: #ce0505;
+}
+.icon
+{
+    position: absolute;
+    top:10px;
+ width: 82px;
+ height:93px;
+  font-family: Poppins;
+  font-size: 80px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #eb2929;
+  background-color: white;
+  border-radius: 50%;
+  text-align:center;
+}
+.main
+{
+
+}
+.log
+{
+    position: absolute;
+    left: 1250px;
+    top:45px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  
+}
+.sign{
+    position: absolute;
+    right: 110px;
+    top:30px;
+    padding: 7px;
+    margin: 10px;
+    border: 1px solid #ffffff; 
+}
+.header
+{
+    width: 512px;
+  height: 51px;
+  margin: 37px 25px 27px 15px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.sorting
+{
+    width: 260px;
+    height: 682px;
+    margin: 27px 1px 8px 11px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+}
+.filters
+{
+    width: 55px;
+    height: 50px;
+    margin: 0 154px 10px 0;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60; 
+}
+.loc
+{
+width: 256px;
+height: 20px;
+margin: 10px 102px 11px 1px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
+.locs
+{
+text-align:left;
+}
+.loc1
+{
+    height:40px;width:160px;margin-top: 8px;
+}
+.cui
+{
+    width: 51px;
+    height: 10px;
+    margin: 22px 157px 22px 4px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.check1
+{
+
+  height: 18px;
+  width:100%;
+  margin: 15px 11px 14px 1px;
+  position:relative;
+}
+.in
+{position:relative;
+    left:1px;
+    top:-2px;
+    
+  height: 10px;
+width:100%;
+  margin: 15px 15px 14px 1px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+.cfw
+{
+    width: 89px;
+    height: 20px;
+    margin: 26px 119px 15px 5px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  
+}
+.rad
+{
+
+    height: 18px;
+    margin: 15px 11px 14px 1px;
+}
+.c
+{position: relative;
+    top:-2px;
+    left:1px;
+    height: 20px;
+    margin: 15px 73px 12px 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  
+}
+.sor
+{ position:relative;
+    left:7px;
+    height: 25px;
+    margin: 2px 90px 10px 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  
+
+}
+.rad2
+{
+    height: 18px;
+    margin: 15px 11px 14px 1px;
+
+}
+.cd
+{
+    position:relative;
+    left:1px;
+    top:-2px;
+    width: 114px;
+  height: 20px;
+  margin: 15px 65px 12px 1px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.fst
+{
+    width: 500px;
+    height: 250px;
+    margin: 27px 154px 34px 0px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    position:relative;
+    top:-755px;
+    left:425px;
+}
+.fst img
+{
+    border-radius: 10%;
+}
+.fs1
+{
+    border-top:3px  dashed #dedfe5;margin-top: 16px;
+}
+.f1
+{
+    margin-top: 16px;
+}
+.cols
+{
+    width: 140px;
+    height: 118px;
+    margin-right: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+.red
+{
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 37px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.col
+{
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.head
+{position:absolute;
+    left:195px;
+    top:10px;
+    width: 298px;
+    height: 43px;
+    margin: 14px 267.4px 5px 41px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  
+}
+.fst img
+{
+    height:130px;
+    width:180px;
+    margin-bottom: border 1px dotted black;
+}
+.mid
+{position:absolute;
+    left:195px;
+    top:65px;
+    width: 39px;
+  height: 23px;
+  margin: 5px 521.4px 5px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.tail
+{position:absolute;
+    left:195px;
+    top:100px;
+    width: 365px;
+  height: 23px;
+  margin: 5px 195.4px 38px 46px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+
+}
+.sec
+{
+width: 500px;
+    height: 250px;
+    margin: 27px 154px 34px 0px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    position:relative;
+    top:-725px;
+    left:425px;
+    
+}
+.sec img
+{height: 130px;
+    width:180px;
+    border-radius: 10%;
+}
+.sty2
+{
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.but
+{
+    position: relative;
+    top:-730px;
+    left:650px;
+    
+}
+.b1
+{
+    width: 36px;
+  height: 36px;
+  background-color: #ffffff;border-radius: 4px;
+    
+}
+.b2
+{
+    width: 36px;
+    height: 36px;
+    background-color: #8c96ab;
+    border-radius: 4px;
+}
